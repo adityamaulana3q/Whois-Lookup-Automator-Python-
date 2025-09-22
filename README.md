@@ -22,11 +22,11 @@ Script Python sederhana untuk melakukan **WHOIS lookup otomatis** terhadap dafta
 
 Berikut adalah contoh tampilan hasil WHOIS lookup yang disimpan di `result.csv`:
 
-![Hasil Output](hasil1.png)
+![Hasil Output](hasilwhois.png)
 
 Berikut contoh hasil tampilan terminal / script berjalan:
 
-![Hasil WHOIS](hasilwhois.png)
+![Hasil WHOIS](hasil1.png)
 
 
 ## LICENSE (MIT)
